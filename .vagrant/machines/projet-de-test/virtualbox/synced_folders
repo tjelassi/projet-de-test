@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/projet-de-test":{"type":null,"mount_options":["uid=1000","gid=1000"],"guestpath":"/home/vagrant/projet-de-test","hostpath":"D:/GitLab_Projects/projet-de-test","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"D:/GitLab_Projects/projet-de-test","disabled":false,"__vagrantfile":true}}}
